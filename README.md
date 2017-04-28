@@ -1,7 +1,7 @@
 JavaScript Inheritance Patterns
 ---
 
-## Objectives
+<!-- ## Objectives -->
 
 1. Explain how prototypal inheritance works in JavaScript
 2. Practice inheriting from prototypes with `Object.create()`
